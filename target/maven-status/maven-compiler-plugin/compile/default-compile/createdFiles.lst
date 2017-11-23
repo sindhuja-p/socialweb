@@ -1,0 +1,7 @@
+com\niit\Config\DBConfig.class
+com\niit\dao\BlogDAOImpl.class
+com\niit\dao\ForumDAO.class
+com\niit\dao\BlogDAO.class
+com\niit\model\Forum.class
+com\niit\model\Blog.class
+com\niit\dao\ForumDAOImpl.class
